@@ -14,7 +14,7 @@
 I'm **Dulanga Wimalagunasekara**. A **Full Stack Developer** in Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
 Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊   
 
-### Connect With Me:
+### Contact Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dulanga_Wimalagunasekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanga-wimalagunasekara-64bb50209/)](https://www.linkedin.com/in/dulanga-wimalagunasekara-64bb50209/)
 &nbsp;
