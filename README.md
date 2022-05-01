@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Dulanga+Wimalagunasekara)](https://git.io/typing-svg)
 ## A Passionate Fullstack Developer
