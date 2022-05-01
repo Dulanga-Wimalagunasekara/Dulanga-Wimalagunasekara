@@ -34,8 +34,8 @@ Believing that the way of heading forward with the surrounding ones is much bles
 | Customer Registration Form          | [repository](https://github.com/Dulanga-Wimalagunasekara/Serialization-Project.git)              | Using Java Serialization and deserialization                                                              |
 | MySQL Client Shell Application      | [repository](https://github.com/Dulanga-Wimalagunasekara/MySQL-Client-Shell-Application.git)     | Working as a mysql Client to run any kind of mysql command - Learning and demonstrating Processes In Java |
 | Simple Text Editor                  | [repository](https://github.com/Dulanga-Wimalagunasekara/Text-Editor.git)                        | To learn and demonstrate basically Regex, File io and nio Java                                            |
-| Library Management System Backend   | [repository](https://github.com/DEP-08-Play-Ground/Library-Management-System-Backend.git)        | Using JavaEE                                                                                              |
-| Library Management System Backend   | [repository](https://github.com/DEP-08-Play-Ground/Library-Management-System-Frontend.git)       | Using HTML 5, CSS 3, TypeScript, ParcelJs basically                                                       |
+| Library Management System Back-End   | [repository](https://github.com/DEP-08-Play-Ground/Library-Management-System-Backend.git)        | Using JavaEE                                                                                              |
+| Library Management System Front-End   | [repository](https://github.com/DEP-08-Play-Ground/Library-Management-System-Frontend.git)       | Using HTML 5, CSS 3, TypeScript, ParcelJs basically                                                       |
 | Casual Intro about myself           | [repository](https://github.com/Dulanga-Wimalagunasekara/Casual-Intro-About-Myself.git)          | https://dulanga-wimalagunasekara.github.io/Casual-Intro-About-Myself/
 
 ## SKILLS & TOOLS
