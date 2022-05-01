@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="300">
+<iframe src="https://giphy.com/embed/3o7qE1YN7aBOFPRw8E" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vr-bigblueboo-rescuties-3o7qE1YN7aBOFPRw8E">via GIPHY</a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Dulanga+Wimalagunasekara)](https://git.io/typing-svg)
 ## A Passionate Fullstack Developer
